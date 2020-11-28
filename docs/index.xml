@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://github.com/BIwashi/hugo-demo.git/</link>
+    <link>https://github.com/BIwashi/hugo-demo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 01:52:04 +0900</lastBuildDate><atom:link href="https://github.com/BIwashi/hugo-demo.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Nov 2020 01:52:04 +0900</lastBuildDate><atom:link href="https://github.com/BIwashi/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting Demo</title>
-      <link>https://github.com/BIwashi/hugo-demo.git/post/starting-demo/</link>
+      <link>https://github.com/BIwashi/hugo-demo/post/starting-demo/</link>
       <pubDate>Sun, 29 Nov 2020 01:52:04 +0900</pubDate>
       
-      <guid>https://github.com/BIwashi/hugo-demo.git/post/starting-demo/</guid>
+      <guid>https://github.com/BIwashi/hugo-demo/post/starting-demo/</guid>
       <description>これは mdのテストです
 ２ test
 3 a = 0  </description>

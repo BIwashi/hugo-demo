@@ -1,4 +1,4 @@
-baseURL = "https://github.com/BIwashi/hugo-demo.git"
+baseURL = "https://github.com/BIwashi/hugo-demo"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-classic" #######################ここが追加した行
