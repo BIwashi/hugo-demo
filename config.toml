@@ -1,0 +1,7 @@
+baseURL = "https://github.com/BIwashi/hugo-demo.git"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-classic" #######################ここが追加した行
+publishDir = "docs"  ######################### 追加
+canonifyurls = true  ######################## 追加(相対URLを絶対URLに変換できるようにします。)
+
